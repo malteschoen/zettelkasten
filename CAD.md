@@ -6,7 +6,9 @@
 | Chili3D                     | https://github.com/xiangechen/chili3d          | OCCT + TypeScript + WebAssembly: Fusion360  look | 4900                      | AGPL    |
 | Solvespace                  | https://github.com/solvespace/solvespace       | Custom NURBS kernel, no OCCT                     | 4200                      |         |
 | OpenCAD Studio              | https://github.com/HakanSeven12/OpenCADStudio  | Focus on 2D, no OCCT                             | 2800                      |         |
-| Dune3D                      | https://github.com/dune3d/dune3d               | like solvespace with OCCT                        | 2100                      |         |
+| SolidCraft | https://github.com/bherbruck/solidcraft | Rust kernel | 2200 | 
+| Dune3D                      | https://github.com/dune3d/dune3d               | like solvespace with OCCT                        | 2100                      |      |
+| jsketcher| https://github.com/xibyte/jsketcher | javascript plus OCCT | 1700 |
 | CascadeStudio               | https://github.com/zalo/CascadeStudio          | OCCT, feels likes interactive openscad           | 1500                      | MIT     |
 | CQ-editor                   | https://github.com/CadQuery/CQ-editor          | OCCT, Graphical debugger for CadQuery script     | 1300                      |         |
 | QymCAD | https://github.com/QymIs-Tech/QymCAD | OCCT, Russian? |	 639 | |
@@ -24,11 +26,15 @@
 | Build123d | https://github.com/gumyr/build123d    | Python bindings for OCCT    | 3400                      |         |
 | PartMode  | https://github.com/BOMWiki/partmode   | TBD                         | 512                       |         |
 
-## Others
+## Others (assorted weirdness)
 
 | Name | Link                           | Description          | Github stars as of Oct 26 | License |
 | ---- | ------------------------------ | -------------------- | ------------------------- | ------- |
 | Mayo | https://github.com/fougue/mayo | Viewer and converter | 2300                      |         |
+| usd-brep| https://github.com/NVIDIA-Omniverse/usd-brep | non OCCT Kernel | 1400 | | 
+| cadcore | https://github.com/YATSKOVSKYI/cadcore | Rust Kernel | |
+|??? |https://github.com/mmiscool/next.BREP.io_RUST_BREP_KERNEL | Rust Kernel | |
+
 
 ## Surface mesh modeling
 
